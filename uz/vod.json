@@ -161,10 +161,10 @@
   },
   {
     "name": "[盘] TG搜",
-    "version": 11,
+    "version": 13,
     "remark": "格式 频道名称1@频道id1&频道名称2@频道id2",
-    "env": "TG搜代理地址##默认直接访问 https://t.me/s/ 有自己的代理服务填入即可，没有不用改动。",
-    "webSite": "豆儿盘@douerpan&豆儿123@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&百度@bdwpzhpd&夸克百度@Aliyun_4K_Movies&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
+    "env": "TG搜代理地址##默认直接访问 https://t.me 有自己的代理服务填入即可，没有不用改动。",
+    "webSite": "豆儿盘@douerpan&偶豆豆@odoudouo&豆儿123@zyfb123&LEO资源@leoziyuan&资源宇宙@tgsearchers7",
     "order": "A17",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_tgs.js",
     "type": 101,
@@ -283,10 +283,10 @@
   },
   {
     "name": "[直] 瓜子",
-    "version": 2,
+    "version": 3,
     "remark": "🍃豆儿出品，不属精品！",
-    "webSite": "https://api.w32z7vtd.com",
-    "codeID": "GsrfFOqB7JtHhaMDFHw9Xv3uHrCGSdwe",
+    "webSite": "https://apinew.uozvr.com",
+    "codeID": "C7pPXVlWMZl9ZJwZSGGes0DTcC4VnjIY",
     "order": "B",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_guazi.txt",
     "type": 101
